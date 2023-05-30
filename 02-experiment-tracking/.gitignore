@@ -1,4 +1,5 @@
 data/
 mlruns/
 models/
-mlflow.db
+*.db
+mlops-zoomcamp-3*
