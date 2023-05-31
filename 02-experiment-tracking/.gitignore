@@ -3,3 +3,6 @@ mlruns/
 models/
 *.db
 mlops-zoomcamp-3*
+output/
+artifacts/
+mlartifacts/
