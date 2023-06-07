@@ -6,3 +6,5 @@ mlops-zoomcamp-3*
 output/
 artifacts/
 mlartifacts/
+wandb/
+*.pkl
