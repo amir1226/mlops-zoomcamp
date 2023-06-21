@@ -1,0 +1,9 @@
+data/
+mlruns/
+models/
+*.db
+output/
+artifacts/
+mlartifacts/
+wandb/
+*.pkl

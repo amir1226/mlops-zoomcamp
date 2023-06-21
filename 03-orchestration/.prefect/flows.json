@@ -1,0 +1,4 @@
+{
+  "main-flow": "orchestrate.py:main_flow",
+  "main-flow-markdown": "orchestrate.py:main_flow_markdown"
+}
